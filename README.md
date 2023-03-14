@@ -4,15 +4,6 @@
 <!-- toggle through intro statements -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ayub+Shahab;I'm+based+in+Virginia;I'm+a+Full+Stack+Developer!)
 
-<!-- Socials section -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="50" width="40" /></a>
-  <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="50" width="40" /></a>
-  <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="50" width="40" /></a>
-  <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="50" width="40" /></a>
-</p>
-
 <!-- generic stats + most used languages -->
 <div align="center"> 
   <div align="center">
