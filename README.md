@@ -25,7 +25,7 @@
 <div style="display:flex; flex-direction: column; width: 100%; justify-content:flex-start;">
   <h3 style="width: 100%; text-align:center; color=3da37a;">SKILLS</h3>
   <!-- front end technologies      -->
-  <h5 style="color=3da37a;">Front End</h5>
+  <h5 style="color=#3da37a !important;">Front End</h5>
   <div style="display: inline_block">
     <p align="left; padding: 10px; background:white;">
         <img align="center" alt="Logo do HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
