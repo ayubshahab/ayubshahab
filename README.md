@@ -54,7 +54,6 @@
 
   <!-- front end technologies      -->
   |<h5 style="color=3da37a;">Front End</h5>|
-  -----------------------------------------
   <div style="display: inline_block">
     <p align="left; padding: 10px; background:white;">
         <img align="center" alt="Logo do HTML5" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -66,8 +65,9 @@
         <img align="center" alt="Logo do TailwindCSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
         <img align="center" alt="Logo do BootstrapCSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
       </p>
-  </div>
+  </div> |
   
+  -----------------------------------------
   <br>
 
   |<h5 style="color=#3da37a;">Back End</h5>|
