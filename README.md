@@ -36,7 +36,7 @@
 </div>
 
  <!-- about me in detail -->
-<details><summary><h1>About me:</h1></summary>
+<details><summary><h3>About me:</h3></summary>
   <br>
   <p style="border 1px solid">
     As a fourth-year undergraduate student at the University of Virginia pursuing a degree in Computer Science, I am a driven Full Stack developer with expertise in Web-Development and App Development. With over 4 years of experience in developing apps and websites using various tech-stacks, including React, React Native, PHP, Laravel, WordPress, I am dedicated to staying on top of the latest technological advancements in the field.
@@ -60,7 +60,7 @@
 
 <br>
 
-<h1>Skills</h1>
+<h3>Skills</h3>
 <table style="width:100%; border:1px solid gray; padding: 20px;">
   <tr>
     <td> 
