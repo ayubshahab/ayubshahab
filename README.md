@@ -24,7 +24,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
   
 <!-- skills section -->
-<div style="display:flex; flex-direction: column; width: 100%; justify-content:flex-start;">
+<div style="display:flex; flex-direction: column; width: 100%;">
   <h3 style="align:center; color=#3da37a;">SKILLS</h3>
   <!-- front end technologies      -->
   <h5 style="color=#3da37a !important;">Front End</h5>
