@@ -52,7 +52,7 @@
     <td> 
       <h3>Front End</h3> 
     </td> 
-    <td >
+    <td style="width:100%">
       <div style="display: inline_block">
         <br>
         <p align="left;">
