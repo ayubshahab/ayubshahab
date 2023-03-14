@@ -99,6 +99,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=30&center=false&vCenter=true&width=1000&lines=Notable+Projects&repeat=false&height=30)
 <br>
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=20&center=false&vCenter=true&width=1000&lines=Varsity+Swap&repeat=false&height=20)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayubshahab&repo=college_marketplace)](https://github.com/CollegeMarketplace-Developers/CollegeMarketplace)
