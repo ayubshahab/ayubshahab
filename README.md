@@ -23,9 +23,7 @@
 <!-- bottom waves -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
   
-<br>
-<br>
-
+<!-- skills section -->
 <div style="display:flex; flex-direction: column; width: 100%; justify-content:flex-start;">
   <h3 style="width: 100%; text-align:center; color=#3da37a;">SKILLS</h3>
   <!-- front end technologies      -->
