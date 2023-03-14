@@ -11,10 +11,13 @@
     <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ayubshahab&show_icons=true&theme=vue-dark&count_private=true&bg_color=1c1917&hide_border=true"/>
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayubshahab&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=1c1917&hide_border=true"/>
   </div> 
+  
   <br>
+  
   <a href="http://www.github.com/aldopagani2">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldopagani2&stroke=ffffff&background=1c1917&ring=3da37a&fire=3da37a&currStreakNum=ffffff&currStreakLabel=3da37a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
+  
   <br>
   <br>
 
@@ -32,6 +35,26 @@
   </div>
 </div>
 
+ <!-- about me in detail -->
+<details><summary><h1>About me:</h1></summary>
+  <br>
+  <p style="border 1px solid">
+    As a fourth-year undergraduate student at the University of Virginia pursuing a degree in Computer Science, I am a driven Full Stack developer with expertise in Web-Development and App Development. With over 4 years of experience in developing apps and websites using various tech-stacks, including React, React Native, PHP, Laravel, WordPress, I am dedicated to staying on top of the latest technological advancements in the field.
+  </p>
+  <br>
+  <p>
+    Recently, I completed a Co-op with Leidos, where I updated legacy code to newer FOSS versions, implemented UI/UX changes for usability improvements, and worked with the Air Traffic Control Department's internal tools support team. My security clearance allowed me to work with sensitive data, which further enhanced my skills in handling and protecting confidential information.
+  </p>
+  <br>
+  <p>
+    Currently, I am employed as the lead software developer at VarsitySwap, where I am hands-on in all stages of the software development cycle, from planning and design to testing and deployment. I specialize in analyzing algorithms, writing tests and SQL queries, altering code, AWS cloud management, and brainstorming ideas and integrating new systems. My goal is to develop a reliable and secure student-specific ecommerce platform that caters to the needs of the student community.
+  </p>
+  <br>
+  <p>
+    If you would like to know more about me, please feel free to send me a message. I am always eager to hear from others and expand my network on LinkedIn.
+  </p>  
+</details>
+
 <!-- bottom waves -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 
@@ -43,7 +66,7 @@
     <td> 
       <h3>Front End</h3> 
     </td> 
-    <td style="width:100%">
+    <td>
       <div style="display: inline_block">
         <br>
         <p align="left;">
