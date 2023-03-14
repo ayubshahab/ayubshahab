@@ -23,9 +23,9 @@
 <br>
 
 <div style="display:flex; flex-direction: column; width: 100%; justify-content:flex-start;">
-  <h3 style="width: 100%; text-align:center;">SKILLS</h3>
+  <h3 style="width: 100%; text-align:center; color=3da37a;">SKILLS</h3>
   <!-- front end technologies      -->
-  <h5>Front End</h5>
+  <h5 style="color=3da37a;">Front End</h5>
   <div style="display: inline_block">
     <p align="left; padding: 10px; background:white;">
         <img align="center" alt="Logo do HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -39,7 +39,7 @@
       </p>
   </div>
 
-  <h5>Back End</h5>
+  <h5 style="color=#3da37a;">Back End</h5>
   <div style="display: inline_block">
       <img align="center" alt="Logo do Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
       <img align="center" alt="Logo do Express JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
@@ -52,7 +52,7 @@
       <img align="center" alt="Logo do C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   </div>
 
-  <h5>Full Stack</h5>
+  <h5 style="color=3da37a;">Full Stack</h5>
   <div style="display: inline_block">
     <img align="center" alt="Logo do Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
     <img align="center" alt="Logo do Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
