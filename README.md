@@ -20,6 +20,25 @@
 * 🤝  I'm open to collaborating on Projects
 
 <br>
+<br>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=20&center=true&vCenter=true&width=1000&lines=Current+tech+stack&repeat=false&height=20)
+
+<div align="center">
+
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+  ![React](https://img.shields.io/badge/-React-000?&logo=React)
+</div>
+
+<br>
+
 <!-- generic stats + most used languages -->
 <div align="center"> 
   <div >
@@ -40,7 +59,7 @@
   <!-- socials -->
   <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=30&center=true&vCenter=true&width=1000&lines=Connect+with+me!&repeat=false&height=30)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=20&center=true&vCenter=true&width=1000&lines=Connect+with+me!&repeat=false&height=20)
     <p align="center">
       <a href="https://www.linkedin.com/in/ayub-shahab/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsalan nury" height="30" width="40" />
@@ -76,6 +95,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 
 <br>
+<br>
+<br>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=30&center=false&vCenter=true&width=1000&lines=Notable+Projects&repeat=false&height=30)
+<br>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=20&center=false&vCenter=true&width=1000&lines=Varsity+Swap&repeat=false&height=20)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayubshahab&repo=college_marketplace)](https://github.com/CollegeMarketplace-Developers/CollegeMarketplace)
+
+
 <br>
 <br>
 
@@ -147,3 +177,4 @@
     </td>
   </tr>
 </table>
+
