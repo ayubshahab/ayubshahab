@@ -47,8 +47,6 @@
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayubshahab&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=1c1917&hide_border=true"/>
   </div> 
   
-  <br>
-  
   <a href="http://www.github.com/aldopagani2">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayubshahab&stroke=ffffff&background=1c1917&ring=3da37a&fire=3da37a&currStreakNum=ffffff&currStreakLabel=3da37a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
@@ -104,6 +102,52 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=20&center=false&vCenter=true&width=1000&lines=Varsity+Swap&repeat=false&height=20)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayubshahab&repo=college_marketplace)](https://github.com/CollegeMarketplace-Developers/CollegeMarketplace)
+
+<p>
+  Varsity Swap is a collective effort to create a ecommerce platform for College students to be able to buy, sell, rent, trade items and services with each other. THe students also have the option to sublease their places of residence with other authenticated students. The platform started out intially as a solo project, but considering the tremendous scope and the features that needed to be integrated, I begin to recruit more individuals to work on this collective. 
+</p>
+
+<details>
+<summary>Notable Features</summary>
+  
+  * Student authentication using Google O-Auth
+  * Student authentication using verification emails
+  * Ability to post items with as many as 8 images per post (40 mbs all together)
+  * Custom Built instant chat feature within the app for real-time messaging
+  * Real time notification alerts using emails
+  * Ability to change status of posts to Available, Pending, or Sold
+  * Custom search engine to find items the student wants
+  * Coming Soon: Ability to pay students using debit/credit cards
+
+</details>
+
+<br>
+<p>
+  Tech Stack:
+</p>
+
+<div align="left">
+
+  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+  ![PHP](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+</div>
+
+<details>
+<summary>My contributions to the project</summary>
+
+  * Designed and developed a peer-to-peer ecommerce platform using PHP and Laravel, facilitating buying, selling, trading, and renting of items among university students.
+  * Built the platform's front-end from scratch using CSS & HTML and utilized MySQL to implement a robust and efficient relational database; developed and integrated a dynamic SQL builder to support custom search functionality, allowing users to quickly and easily find what they're looking for within the platform.
+  * Hosted the platform on AWS Elastic Beanstalk and utilized S3 buckets for scalable and cost-effective storage.
+  * Developed a custom login feature with secure password hashing and encryption as well as integrated Google O-Auth for users to sign in with their Google accounts, improving user convenience and reducing friction during the sign-up process. 
+  * Implemented Git version control, conducted code reviews, troubleshooted issues, facilitated communication between team members and stakeholders, resulting in a high-quality and user-friendly platform.
+
+</details>
 
 
 <br>
