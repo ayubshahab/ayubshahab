@@ -4,13 +4,25 @@
 <img height="300rem" width="100%" alt="Hero Image" src="https://i.pinimg.com/originals/4b/b5/dd/4bb5ddbe719539bf8f2e2f286bba8956.jpg"/>
 
 <br>
+<br>
 
 <!-- toggle through intro statements -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ayub+Shahab;I'm+based+in+Virginia;I'm+a+Full+Stack+Developer!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=40&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ayub+Shahab&repeat=false&weight=800)
 
+<br>
+
+<!-- * 🖥️  See my portfolio at [MyPortfolio](http://ztm.com) -->
+
+* 🌍  I'm based in Woodbridge, VA
+* ✉️  You can contact me at [ayubshahab.official@gmail.com](mailto:ayubshahab.official@gmail.com)
+* 🚀  I'm currently working on [Varsity Swap](https://varsityswap.com/)
+* 🧠  I'm learning Angular
+* 🤝  I'm open to collaborating on Projects
+
+<br>
 <!-- generic stats + most used languages -->
 <div align="center"> 
-  <div align="center">
+  <div >
     <br>
     <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ayubshahab&show_icons=true&theme=vue-dark&count_private=true&bg_color=1c1917&hide_border=true"/>
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayubshahab&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=1c1917&hide_border=true"/>
@@ -27,7 +39,8 @@
 
   <!-- socials -->
   <div align="center">
-    <h3 align="center">Connect with me:</h3>
+
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=30&center=true&vCenter=true&width=1000&lines=Connect+with+me!&repeat=false&height=30)
     <p align="center">
       <a href="https://www.linkedin.com/in/ayub-shahab/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsalan nury" height="30" width="40" />
@@ -43,7 +56,7 @@
 <details><summary><h3>About me:</h3></summary>
   <br>
   <p style="border 1px solid">
-    As a fourth-year undergraduate student at the University of Virginia pursuing a degree in Computer Science, I am a driven Full Stack developer with expertise in Web-Development and App Development. With over 4 years of experience in developing apps and websites using various tech-stacks, including React, React Native, PHP, Laravel, WordPress, I am dedicated to staying on top of the latest technological advancements in the field.
+    As a fourth-year undergraduate student at the University of Virginia, pursuing a degree in Computer Science, I am a driven Full Stack developer with expertise in Web-Development and App Development. With over 4 years of experience in developing apps and websites using various tech-stacks, including React, React Native, PHP, Laravel, WordPress, I am dedicated to staying on top of the latest technological advancements in the field.
   </p>
   <br>
   <p>
@@ -55,7 +68,7 @@
   </p>
   <br>
   <p>
-    If you would like to know more about me, please feel free to send me a message. I am always eager to hear from others and expand my network on LinkedIn.
+    If you would like to know more about me, please feel free to send me a message. I am always eager to hear from others and expand my network.
   </p>  
 </details>
 
@@ -63,8 +76,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 
 <br>
+<br>
+<br>
 
-<h3>Skills</h3>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=30&center=false&vCenter=true&width=1000&lines=Skills&repeat=false&height=30)
 <table style="width:100%; border:1px solid gray; padding: 20px;">
   <tr>
     <td> 
