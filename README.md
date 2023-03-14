@@ -1,3 +1,4 @@
+<!-- top waves -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 
 <!-- toggle through intro statements -->
@@ -19,6 +20,8 @@
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayubshahab&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
   </div> 
     
+<!-- bottom waves -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
   
 <br>
 <br>
