@@ -1,7 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 
+<!-- toggle through intro statements -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ayub+Shahab;I'm+based+in+Virginia;I'm+a+Full+Stack+Developer!)
 
+<!-- Socials section -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
@@ -10,6 +12,7 @@
   <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
+<!-- generic stats + most used languages -->
 <div align="center">
   <br>
   <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ayubshahab&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
@@ -20,8 +23,9 @@
 <br>
 
 <div style="display:flex; flex-direction: column; width: 100%; justify-content:flex-start;">
+  <h3 style="width: 100%; text-align:center;">SKILLS</h3>
   <!-- front end technologies      -->
-  <h3>Front End</h1>
+  <h5>Front End</h5>
   <div style="display: inline_block">
     <p align="left">
         <img align="center" alt="Logo do HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -35,9 +39,7 @@
       </p>
   </div>
 
-  <br/>
-
-  <h3>Back End</h1>
+  <h5>Back End</h5>
   <div style="display: inline_block">
       <img align="center" alt="Logo do Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
       <img align="center" alt="Logo do Express JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
@@ -50,9 +52,7 @@
       <img align="center" alt="Logo do C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   </div>
 
-  <br/>
-
-  <h3>Full Stack</h1>
+  <h5>Full Stack</h5>
   <div style="display: inline_block">
     <img align="center" alt="Logo do Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
     <img align="center" alt="Logo do Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
