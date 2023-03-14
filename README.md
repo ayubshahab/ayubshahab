@@ -19,14 +19,6 @@
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on Projects
 
-<style>
-red { color: red }
-yellow { color: yellow }
-</style>
-
-<red> red color markdown text</red>
-<yellow> red color markdown text</yellow>
-
 <br>
 <br>
 
