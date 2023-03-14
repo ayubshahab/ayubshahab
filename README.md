@@ -27,7 +27,7 @@
 <br>
 
 <div style="display:flex; flex-direction: column; width: 100%; justify-content:flex-start;">
-  <h3 style="width: 100%; text-align:center; color=3da37a;">SKILLS</h3>
+  <h3 style="width: 100%; text-align:center; color=#3da37a;">SKILLS</h3>
   <!-- front end technologies      -->
   <h5 style="color=#3da37a !important;">Front End</h5>
   <div style="display: inline_block">
