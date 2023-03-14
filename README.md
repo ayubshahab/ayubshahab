@@ -105,7 +105,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayubshahab&repo=college_marketplace)](https://github.com/CollegeMarketplace-Developers/CollegeMarketplace)
 
 <p>
-  Varsity Swap is a collective effort to create a ecommerce platform for College students to be able to buy, sell, rent, trade items and services with each other. THe students also have the option to sublease their places of residence with other authenticated students. The platform started out intially as a solo project, but considering the tremendous scope and the features that needed to be integrated, I begin to recruit more individuals to work on this collective. 
+  Varsity Swap is a collective effort to create a ecommerce platform for College students to be able to buy, sell, rent, trade items and services with each other. THe students also have the option to sublease their places of residence with other authenticated students. The platform started out intially as a solo project, but considering the tremendous scope and the features that needed to be integrated, I recruited more individuals to work on this initiative. 
 </p>
 
 <details>
