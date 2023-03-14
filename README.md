@@ -12,7 +12,9 @@
   <br>
   <br>
   
-  <div style="display: inline_block">
+  <div style="display:flex; flex-direction: column; width: 100%;">
+    <h1>Front End</h1>
+    <div style="display: inline_block">
     <p align="center">
       <img align="center" alt="Logo do JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="Logo do TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -31,5 +33,6 @@
       <img align="center" alt="Logo do MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
       <img align="center" alt="Logo do Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
     </p>
+  </div>
   </div>
 </a> 
