@@ -1,6 +1,10 @@
 <!-- top waves -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 
+<img height="300rem" width="100%" alt="Hero Image" src="https://i.pinimg.com/originals/4b/b5/dd/4bb5ddbe719539bf8f2e2f286bba8956.jpg"/>
+
+<br>
+
 <!-- toggle through intro statements -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ayub+Shahab;I'm+based+in+Virginia;I'm+a+Full+Stack+Developer!)
 
